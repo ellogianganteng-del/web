@@ -87,4 +87,6 @@ background-repeat: no-repeat;
 .containerabout img{
     height: 200px;
 }
-
+.medsos a{
+    font-size: 50px;
+    color: gold
